@@ -59,15 +59,6 @@
             </tr>
             <tr class="border">
                 <th>THU</th>
-                <td>UP</td>
-                <td>DAA</td>
-                <td>AJWT</td>
-                <td>CA</td>
-                <td colspan="3" >CN&UNIX LAB</td>
-                <td>-</td>
-            </tr>
-            <tr class="border">
-                <th>FRI</th>
                 <td>-</td>
                 <td>L:PH 105</td>
                 <td>L:CH 103</td>
@@ -76,7 +67,7 @@
                 <td>-</td>
             </tr>
             <tr class="border">
-                <th>SAT</th>
+                <th>FRI</th>
                 <td>-</td>
                 <td>L:CH 105</td>
                 <td>L:CS 103</td>
